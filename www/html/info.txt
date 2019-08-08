@@ -1,0 +1,1 @@
+Copy & replace this files to apply this design. Dont forgot to update your www/common.php. 
